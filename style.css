@@ -90,12 +90,13 @@ background-color:whitesmoke;
        
        background:  #3b5998;
        border: black;
-        width:35%;
-        height:30px;
+        width:35%; 
+        height:50px;
         float:right;
         position: relative;
         top:315px;
         left:2px;
+    
 
         
     }
@@ -107,17 +108,20 @@ background-color:whitesmoke;
         color:black;
         
         text-decoration: none;
-  display: inline-block;
+ 
   cursor: pointer;
        
     }
     
 
+    
 
 
     
-    .button5 {padding: 2px 4px;}
+    .button5 {padding: 2px 4px; height: 29px;padding-bottom:0px;}
     .button4 {padding: 2px 4px;
+        height: 29px;padding-bottom:0px;
+        color:dimgray;
      }
     .button3 {padding: 2px 4px;}
     .button2 {padding: 2px 4px;}
